@@ -1,0 +1,7 @@
+{
+	"parent": "item/temp_helmet",
+	"textures": {
+		"0": "item/gold_layer_1",
+		"particle": "item/gold_layer_1"
+	}
+}

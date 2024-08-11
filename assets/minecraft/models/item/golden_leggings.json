@@ -1,0 +1,7 @@
+{
+	"parent": "item/temp_leggings",
+	"textures": {
+		"0": "item/gold_layer_2",
+		"particle": "item/gold_layer_2"
+	}
+}

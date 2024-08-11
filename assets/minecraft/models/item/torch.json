@@ -1,0 +1,7 @@
+{
+	"parent": "item/temp_torch",
+	"textures": {
+		"0": "item/torch",
+		"particle": "item/torch"
+	}
+}

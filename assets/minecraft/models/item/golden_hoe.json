@@ -1,0 +1,7 @@
+{
+	"parent": "item/temp_hoe",
+	"textures": {
+		"0": "item/golden_hoe",
+		"particle": "item/golden_hoe"
+	}
+}

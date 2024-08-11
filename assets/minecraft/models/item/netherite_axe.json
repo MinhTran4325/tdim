@@ -1,0 +1,7 @@
+{
+	"parent": "item/temp_axe",
+	"textures": {
+		"0": "item/netherite_axe",
+		"particle": "item/netherite_axe"
+	}
+}

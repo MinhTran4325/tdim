@@ -1,0 +1,48 @@
+armors
+└ chainmail
+  diamond
+  gold
+  iron
+  leather
+  netherite
+arrows
+└ normal
+  spectral
+  tipped
+bell
+boats
+boats with chest
+bow
+bucket
+└ axolotl
+  cod
+  empty
+  lava
+  milk
+  powder snow
+  pufferfish
+  salmon
+  tadpole
+  tropical fish
+  water
+end crystal
+mace
+minecart
+└ chest
+  empty
+  furnace
+  hopper
+  tnt
+signs
+tools
+└ diamond
+  gold
+  iron
+  netherite
+  stone
+  wood
+torches
+totem of undying
+trident
+
+

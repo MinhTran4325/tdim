@@ -1,0 +1,6 @@
+{
+	"parent": "item/temp_arrow",
+	"textures": {
+		"0": "item/spectral_arrow"
+	}
+}

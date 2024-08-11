@@ -1,0 +1,7 @@
+{
+	"parent": "item/temp_helmet",
+	"textures": {
+		"0": "item/chainmail_layer_1",
+		"particle": "item/chainmail_layer_1"
+	}
+}

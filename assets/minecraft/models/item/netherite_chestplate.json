@@ -1,0 +1,7 @@
+{
+	"parent": "item/temp_chestplate",
+	"textures": {
+		"0": "item/netherite_layer_1",
+		"particle": "item/netherite_layer_1"
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "item/temp_sword",
+	"textures": {
+		"0": "item/diamond_sword",
+		"particle": "item/diamond_sword"
+	}
+}

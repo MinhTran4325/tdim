@@ -1,0 +1,7 @@
+{
+	"parent": "item/temp_chestplate",
+	"textures": {
+		"0": "item/diamond_layer_1",
+		"particle": "item/diamond_layer_1"
+	}
+}

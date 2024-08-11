@@ -1,0 +1,7 @@
+{
+	"parent": "item/temp_axe",
+	"textures": {
+		"0": "item/wooden_axe",
+		"particle": "item/wooden_axe"
+	}
+}

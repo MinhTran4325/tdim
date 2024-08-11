@@ -1,0 +1,7 @@
+{
+	"parent": "item/temp_boots",
+	"textures": {
+		"0": "item/diamond_layer_1",
+		"particle": "item/diamond_layer_1"
+	}
+}

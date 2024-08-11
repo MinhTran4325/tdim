@@ -1,0 +1,7 @@
+{
+	"parent": "item/temp_sign",
+	"textures": {
+		"0": "item/jungle_sign",
+		"particle": "item/jungle_sign"
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "item/temp_shovel",
+	"textures": {
+		"0": "item/netherite_shovel",
+		"particle": "item/netherite_shovel"
+	}
+}

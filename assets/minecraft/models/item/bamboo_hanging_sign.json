@@ -1,0 +1,7 @@
+{
+	"parent": "item/temp_sign_hang",
+	"textures": {
+		"0": "item/bamboo_hang",
+		"particle": "item/bamboo_hang"
+	}
+}

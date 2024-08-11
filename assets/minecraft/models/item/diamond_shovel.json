@@ -1,0 +1,7 @@
+{
+	"parent": "item/temp_shovel",
+	"textures": {
+		"0": "item/diamond_shovel",
+		"particle": "item/diamond_shovel"
+	}
+}

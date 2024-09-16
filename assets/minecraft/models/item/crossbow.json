@@ -221,7 +221,7 @@
         {
             "predicate": {
                 "pulling": 1,
-                "pull": 0.58
+                "pull": 0.5
             },
             "model": "item/crossbow_pulling_1"
         },

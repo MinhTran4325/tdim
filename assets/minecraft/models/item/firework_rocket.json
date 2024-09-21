@@ -105,6 +105,7 @@
 		},
 		"gui": {
 			"rotation": [30, 45, 0],
+			"translation": [0, 1, 0],
 			"scale": [1.5, 1.5, 1.5]
 		},
 		"head": {

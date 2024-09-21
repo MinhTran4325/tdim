@@ -25,7 +25,12 @@ bucket
   tadpole
   tropical fish
   water
+crossbow
+└ standby
+  arrow
+  firework
 end crystal
+firework rocket
 mace
 minecart
 └ chest

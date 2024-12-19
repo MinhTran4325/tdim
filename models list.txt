@@ -31,6 +31,8 @@ crossbow
   firework
 end crystal
 firework rocket
+fishing rod
+└ default
 mace
 minecart
 └ chest
@@ -49,5 +51,3 @@ tools
 torches
 totem of undying
 trident
-
-

@@ -1,0 +1,7 @@
+{
+	"parent": "item/temp_boat",
+	"textures": {
+		"2": "item/pale_oak_boat",
+		"particle": "item/pale_oak_boat"
+	}
+}

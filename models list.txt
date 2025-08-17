@@ -1,3 +1,4 @@
+armor stand
 armors
 └ chainmail
   diamond
@@ -25,6 +26,7 @@ bucket
   tadpole
   tropical fish
   water
+chain
 crossbow
 └ standby
   arrow
@@ -33,6 +35,13 @@ end crystal
 firework rocket
 fishing rod
 └ default
+flower pot
+item frame
+└ glow
+  normal
+lantern
+└ normal
+  soul
 mace
 minecart
 └ chest

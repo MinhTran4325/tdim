@@ -1,0 +1,6 @@
+{
+  "parent": "item/temp_item_frame",
+  "textures": {
+    "0": "item/glow_item_frame"
+  }
+}

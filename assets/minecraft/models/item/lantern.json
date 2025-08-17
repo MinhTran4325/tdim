@@ -1,0 +1,6 @@
+{
+  "parent": "item/temp_lantern",
+  "textures": {
+    "0": "item/lantern"
+  }
+}

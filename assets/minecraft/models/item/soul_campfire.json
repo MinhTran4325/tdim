@@ -1,0 +1,7 @@
+{
+  "parent": "item/temp_campfire",
+  "textures": {
+    "fire": "item/soul_campfire_fire",
+    "log": "item/soul_campfire_log_lit"
+  }
+}

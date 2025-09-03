@@ -1,0 +1,6 @@
+{
+  "parent": "item/temp_candle",
+  "textures": {
+    "0": "item/white_candle"
+  }
+}

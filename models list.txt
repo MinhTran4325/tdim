@@ -14,6 +14,7 @@ bell
 boats
 boats with chest
 bow
+brewing stand
 bucket
 └ axolotl
   cod
@@ -26,6 +27,9 @@ bucket
   tadpole
   tropical fish
   water
+campfires
+candles
+cauldron
 chain
 crossbow
 └ standby

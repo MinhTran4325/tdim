@@ -46,6 +46,7 @@ item frame
 lantern
 └ normal
   soul
+lever
 mace
 minecart
 └ chest
@@ -53,6 +54,9 @@ minecart
   furnace
   hopper
   tnt
+redstone
+└ comparator
+  repeater
 signs
 tools
 └ diamond

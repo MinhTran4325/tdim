@@ -1,0 +1,6 @@
+{
+  "parent": "item/temp_chain",
+  "textures": {
+    "0": "item/weathered_copper_chain"
+  }
+}

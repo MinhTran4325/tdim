@@ -59,7 +59,7 @@
 		},
 		"gui": {
 			"rotation": [30, -45, 0],
-			"translation": [0, 4.5, 0]
+			"translation": [0, 3, 0]
 		},
 		"head": {
 			"rotation": [0, 90, 0],

@@ -1,0 +1,6 @@
+{
+	"parent": "item/temp_pickaxe",
+	"textures": {
+		"0": "item/copper_pickaxe"
+	}
+}

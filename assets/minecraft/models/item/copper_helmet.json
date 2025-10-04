@@ -1,0 +1,6 @@
+{
+	"parent": "item/temp_helmet",
+	"textures": {
+		"0": "item/copper_layer_1"
+	}
+}

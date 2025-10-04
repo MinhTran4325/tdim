@@ -1,0 +1,6 @@
+{
+	"parent": "item/temp_shovel",
+	"textures": {
+		"0": "item/copper_shovel"
+	}
+}

@@ -44,7 +44,8 @@ item frame
 └ glow
   normal
 lantern
-└ normal
+└ coppers
+  normal
   soul
 lever
 mace
@@ -68,3 +69,4 @@ tools
 torches
 totem of undying
 trident
+tripwire hook

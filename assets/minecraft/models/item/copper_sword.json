@@ -1,0 +1,6 @@
+{
+	"parent": "item/temp_sword",
+	"textures": {
+		"0": "item/copper_sword"
+	}
+}

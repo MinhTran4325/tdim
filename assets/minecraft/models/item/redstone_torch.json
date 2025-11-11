@@ -29,7 +29,8 @@
 				"west": {"uv": [6, 0, 10, 4], "texture": "#1"},
 				"up": {"uv": [6, 0, 10, 4], "texture": "#1"},
 				"down": {"uv": [6, 0, 10, 4], "texture": "#1"}
-			}
+			},
+			"light_emission": 6
 		}
 	],
 	"gui_light": "front",
@@ -65,6 +66,11 @@
 		"fixed": {
 			"rotation": [-15, 0, 0],
 			"translation": [0, 0, -0.75]
+		},
+		"on_shelf": {
+			"rotation": [15, 0, 0],
+			"translation": [0, 0, 1],
+			"scale": [2, 2, 2]
 		}
 	}
 }

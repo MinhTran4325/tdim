@@ -1,0 +1,19 @@
+{
+	"parent": "item/temp_door",
+	"elements": [
+		{
+			"from": [0, 0, 7],
+			"to": [16, 32, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 6]},
+			"color": 4,
+			"faces": {
+				"north": {"uv": [0, 0, 8, 16], "texture": "#0"},
+				"east": {"uv": [8, 0, 9, 16], "texture": "#0"},
+				"south": {"uv": [8, 0, 0, 16], "texture": "#0"},
+				"west": {"uv": [9, 0, 10, 16], "texture": "#0"},
+				"up": {"uv": [8, 1, 0, 0], "texture": "#0"},
+				"down": {"uv": [8, 16, 0, 15], "texture": "#0"}
+			}
+		}
+	]
+}

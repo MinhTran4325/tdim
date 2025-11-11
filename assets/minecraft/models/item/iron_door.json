@@ -1,0 +1,8 @@
+{
+	"format_version": "1.21.6",
+	"parent": "item/oak_door",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "item/iron_door"
+	}
+}

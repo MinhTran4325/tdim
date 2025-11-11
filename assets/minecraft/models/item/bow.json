@@ -1,4 +1,5 @@
 {
+	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
@@ -86,6 +87,11 @@
 		}
 	],
 	"gui_light": "front",
+	"overrides": [
+		{"predicate": {"pulling": 1}, "model": "item/bow_pulling_0"},
+		{"predicate": {"pulling": 1, "pull": 0.65}, "model": "item/bow_pulling_1"},
+		{"predicate": {"pulling": 1, "pull": 0.9}, "model": "item/bow_pulling_2"}
+	],
 	"display": {
 		"thirdperson_righthand": {
 			"translation": [-1.5, 1, 4]
@@ -117,28 +123,10 @@
 		},
 		"fixed": {
 			"rotation": [90, -45, 90]
+		},
+		"on_shelf": {
+			"rotation": [90, 69, -90],
+			"scale": [1.2, 1.2, 1.2]
 		}
-	},
-	    "overrides": [
-        {
-            "predicate": {
-                "pulling": 1
-            },
-            "model": "item/bow_pulling_0"
-        },
-        {
-            "predicate": {
-                "pulling": 1,
-                "pull": 0.65
-            },
-            "model": "item/bow_pulling_1"
-        },
-        {
-            "predicate": {
-                "pulling": 1,
-                "pull": 0.9
-            },
-            "model": "item/bow_pulling_2"
-        }
-    ]
+	}
 }

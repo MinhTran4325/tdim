@@ -1,0 +1,38 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "item/temp_door",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "item/cherry_door",
+		"particle": "item/cherry_door"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 7],
+			"to": [16, 32, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 6]},
+			"faces": {
+				"north": {"uv": [0, 0, 8, 16], "texture": "#0"},
+				"east": {"uv": [8, 0, 9, 16], "texture": "#0"},
+				"south": {"uv": [8, 0, 0, 16], "texture": "#0"},
+				"west": {"uv": [9, 0, 10, 16], "texture": "#0"},
+				"up": {"uv": [8, 1, 0, 0], "texture": "#0"},
+				"down": {"uv": [8, 16, 0, 15], "texture": "#0"}
+			}
+		},
+		{
+			"from": [12, 28, 9],
+			"to": [4, 15, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [12, 28, 9]},
+			"faces": {
+				"north": {"uv": [2, 8.5, 6, 2], "texture": "#0"},
+				"east": {"uv": [6, 2, 7, 8.5], "texture": "#0"},
+				"south": {"uv": [2, 8.5, 6, 2], "texture": "#0"},
+				"west": {"uv": [1, 2, 2, 8.5], "texture": "#0"},
+				"up": {"uv": [2, 1, 6, 2], "texture": "#0"},
+				"down": {"uv": [2, 8.5, 6, 9.5], "texture": "#0"}
+			}
+		}
+	]
+}

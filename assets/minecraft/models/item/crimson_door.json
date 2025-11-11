@@ -1,0 +1,8 @@
+{
+	"format_version": "1.21.6",
+	"parent": "item/temp_door_whole",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "item/crimson_door"
+	}
+}

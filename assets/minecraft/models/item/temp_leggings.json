@@ -120,6 +120,10 @@
 		"fixed": {
 			"translation": [0, -1, 0],
 			"scale": [1.2, 1.2, 1.2]
+		},
+		"on_shelf": {
+			"rotation": [0, 180, 0],
+			"scale": [1.2, 1.2, 1.2]
 		}
 	},
 	"groups": [

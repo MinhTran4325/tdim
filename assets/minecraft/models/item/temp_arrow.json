@@ -1,6 +1,6 @@
-{	
+{
+	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
-	"texture_size": [16, 16],
 	"elements": [
 		{
 			"from": [7.7, 8.2, 1],
@@ -133,8 +133,9 @@
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"gui": {
-			"rotation": [115, -45, 30],
-			"translation": [0.5, 0.5, 0]
+			"rotation": [115, -40, 30],
+			"translation": [0.5, 0.5, 0],
+			"scale": [1.1, 1.1, 1.1]
 		},
 		"head": {
 			"rotation": [-90, 26, 90],
@@ -143,6 +144,10 @@
 		},
 		"fixed": {
 			"rotation": [90, 45, 0]
+		},
+		"on_shelf": {
+			"rotation": [90, -18, 0],
+			"scale": [1.8, 1.8, 1.8]
 		}
 	}
 }

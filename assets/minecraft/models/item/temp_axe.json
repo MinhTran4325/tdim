@@ -1,4 +1,5 @@
 {
+	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"particle": "#0"
@@ -221,6 +222,11 @@
 		"fixed": {
 			"rotation": [-90, 45, 90],
 			"translation": [2, 0.5, -0.5]
+		},
+		"on_shelf": {
+			"rotation": [90, -105, 90],
+			"translation": [-1.5, 0, 0],
+			"scale": [1.2, 1.2, 1.2]
 		}
 	},
 	"groups": [

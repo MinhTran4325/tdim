@@ -186,7 +186,8 @@
 				"west": {"uv": [5, 5, 11, 5], "texture": "#liquid"},
 				"up": {"uv": [5, 5, 11, 11], "texture": "#liquid"},
 				"down": {"uv": [5, 5, 11, 11], "texture": "#liquid"}
-			}
+			},
+			"light_emission": 15
 		}
 	]
 }

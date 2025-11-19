@@ -57,6 +57,9 @@
 		"head": {
 			"rotation": [90, 0, 60],
 			"translation": [0, 7.25, 0]
+		},
+		"on_shelf": {
+			"scale": [2.1, 2.1, 2.1]
 		}
 	}
 }

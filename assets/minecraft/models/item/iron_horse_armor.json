@@ -1,0 +1,6 @@
+{
+	"parent": "item/temp_horse_armor",
+	"textures": {
+		"0": "item/iron_horse_armor"
+	}
+}

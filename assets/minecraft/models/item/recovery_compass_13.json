@@ -1,0 +1,45 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "item/temp_compass",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "item/recovery_compass",
+		"particle": "item/recovery_compass"
+	},
+	"elements": [
+		{
+			"from": [11.5, 1, 11.5],
+			"to": [4.5, 0.5, 4.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0.5, 8]},
+			"faces": {
+				"north": {"uv": [0, 8.5, 3.5, 8.75], "texture": "#0"},
+				"east": {"uv": [0, 8.5, 3.5, 8.75], "texture": "#0"},
+				"south": {"uv": [0, 8.5, 3.5, 8.75], "texture": "#0"},
+				"west": {"uv": [0, 8.5, 3.5, 8.75], "texture": "#0"},
+				"up": {"uv": [0, 5, 3.5, 8.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [3.5, 0, 3.5],
+			"to": [12.5, 1, 12.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0.5, 8]},
+			"faces": {
+				"north": {"uv": [0, 4.5, 4.5, 5], "texture": "#0"},
+				"east": {"uv": [0, 4.5, 4.5, 5], "texture": "#0"},
+				"south": {"uv": [0, 4.5, 4.5, 5], "texture": "#0"},
+				"west": {"uv": [0, 4.5, 4.5, 5], "texture": "#0"},
+				"up": {"uv": [0, 0, 4.5, 4.5], "texture": "#0"},
+				"down": {"uv": [4.5, 0, 9, 4.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.75, 0.51, 5.25],
+			"to": [8.25, 0.51, 8.25],
+			"rotation": {"angle": 33.75, "axis": "y", "origin": [8, 0.5, 8]},
+			"faces": {
+				"up": {"uv": [4.5, 7.5, 4.75, 9], "texture": "#0"}
+			}
+		}
+	]
+}

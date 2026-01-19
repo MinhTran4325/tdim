@@ -1,0 +1,6 @@
+{
+	"parent": "item/temp_horse_armor",
+	"textures": {
+		"0": "item/netherite_horse_armor"
+	}
+}

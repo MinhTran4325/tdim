@@ -1,0 +1,7 @@
+{
+	"parent": "item/temp_spear",
+	"textures": {
+		"0": "item/golden_spear",
+		"particle": "item/golden_spear"
+	}
+}

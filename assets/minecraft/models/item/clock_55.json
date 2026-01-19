@@ -1,0 +1,46 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"parent": "item/temp_compass",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "item/clock",
+		"1": "item/clock_face/55",
+		"particle": "item/clock"
+	},
+	"elements": [
+		{
+			"from": [12, 1, 12],
+			"to": [4, 0.5, 4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0.75, 8]},
+			"faces": {
+				"north": {"uv": [0, 9.5, 4, 9.75], "texture": "#0"},
+				"east": {"uv": [0, 9.5, 4, 9.75], "texture": "#0"},
+				"south": {"uv": [0, 9.5, 4, 9.75], "texture": "#0"},
+				"west": {"uv": [0, 9.5, 4, 9.75], "texture": "#0"},
+				"up": {"uv": [0, 5.5, 4, 9.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [3, 0, 3],
+			"to": [13, 1, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0.5, 8]},
+			"faces": {
+				"north": {"uv": [0, 5, 5, 5.5], "texture": "#0"},
+				"east": {"uv": [0, 5, 5, 5.5], "texture": "#0"},
+				"south": {"uv": [0, 5, 5, 5.5], "texture": "#0"},
+				"west": {"uv": [0, 5, 5, 5.5], "texture": "#0"},
+				"up": {"uv": [0, 0, 5, 5], "texture": "#0"},
+				"down": {"uv": [5, 0, 10, 5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [1, 0.51, 2.5],
+			"to": [15, 0.51, 16.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0.5, 9.5]},
+			"faces": {
+				"up": {"uv": [1, 1, 15, 15], "texture": "#1"}
+			}
+		}
+	]
+}

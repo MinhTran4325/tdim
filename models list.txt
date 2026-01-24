@@ -1,71 +1,51 @@
 armor stand
 armors
-└ chainmail
-  diamond
-  gold
-  iron
-  leather
-  netherite
+└ horse
+  player
 arrows
-└ normal
-  spectral
-  tipped
 bell
-boats
-boats with chest
+boats		 | raft
+boats with chest | included
 bow
 brewing stand
-bucket
-└ axolotl
-  cod
-  empty
-  lava
-  milk
-  powder snow
-  pufferfish
-  salmon
-  tadpole
-  tropical fish
-  water
+buckets
 campfires
 candles
 cauldron
-chain
+chains
+clock
+compasses
 crossbow
-└ standby
-  arrow
-  firework
+doors
+elytra
 end crystal
 firework rocket
 fishing rod
 └ default
 flower pot
-item frame
-└ glow
-  normal
-lantern
-└ coppers
-  normal
-  soul
+hopper
+item frames
+lanterns
 lever
 mace
-minecart
-└ chest
-  empty
-  furnace
-  hopper
-  tnt
+minecarts
+painting
+rails
 redstone
 └ comparator
+  dust
   repeater
+  torch
+saddle
+shield
 signs
+spears
+spyglass
 tools
-└ diamond
-  gold
-  iron
-  netherite
-  stone
-  wood
+└ axe
+  hoe
+  pickaxe
+  shovel
 torches
 totem of undying
 trident

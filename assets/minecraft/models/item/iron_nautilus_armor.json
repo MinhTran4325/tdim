@@ -1,0 +1,6 @@
+{
+	"parent": "item/temp_nautilus_armor",
+	"textures": {
+		"0": "item/iron_nautilus_armor"
+	}
+}

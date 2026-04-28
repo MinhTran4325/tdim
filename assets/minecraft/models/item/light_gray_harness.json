@@ -1,0 +1,6 @@
+{
+  "parent": "item/temp_harness",
+  "textures": {
+    "0": "item/light_gray_harness"
+  }
+}

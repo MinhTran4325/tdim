@@ -1,12 +1,15 @@
 armor stand
 armors
 └ horse
+  nautilus
   player
+  wolf
 arrows
 bell
 boats		 | raft
 boats with chest | included
-bow
+blaze rod
+breeze rod
 brewing stand
 buckets
 campfires
@@ -15,19 +18,26 @@ cauldron
 chains
 clock
 compasses
-crossbow
 doors
 elytra
 end crystal
+ender eye
+ender pearl
+fire charge
 firework rocket
 fishing rod
-└ default
+└ carrot
+  default
+  warped
 flower pot
+ghast harness
+heart of the sea
 hopper
 item frames
 lanterns
 lever
 mace
+magma cream
 minecarts
 painting
 rails
@@ -38,9 +48,12 @@ redstone
   torch
 saddle
 shield
+shrooms and fungi
 signs
+slime ball
 spears
 spyglass
+snow ball
 tools
 └ axe
   hoe
@@ -48,5 +61,11 @@ tools
   shovel
 torches
 totem of undying
-trident
 tripwire hook
+weapons
+└ bow
+  crossbow
+  spear
+  sword
+  trident
+wind charge

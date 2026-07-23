@@ -1,6 +1,6 @@
 armor stand
 armors
-└ horse
++ horse
   nautilus
   player
   wolf
@@ -11,7 +11,9 @@ boats with chest | included
 blaze rod
 breeze rod
 brewing stand
+brush
 buckets
+bundles
 campfires
 candles
 cauldron
@@ -26,27 +28,33 @@ ender pearl
 fire charge
 firework rocket
 fishing rod
-└ carrot
++ carrot
   default
   warped
+flint and steel
 flower pot
 ghast harness
+goat horn
 heart of the sea
 hopper
 item frames
 lanterns
+lead
 lever
 mace
 magma cream
 minecarts
+music disc
+name tag
 painting
 rails
 redstone
-└ comparator
++ comparator
   dust
   repeater
   torch
 saddle
+shears
 shield
 shrooms and fungi
 signs
@@ -55,7 +63,7 @@ spears
 spyglass
 snow ball
 tools
-└ axe
++ axe
   hoe
   pickaxe
   shovel
@@ -63,7 +71,7 @@ torches
 totem of undying
 tripwire hook
 weapons
-└ bow
++ bow
   crossbow
   spear
   sword

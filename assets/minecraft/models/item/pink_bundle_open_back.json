@@ -1,0 +1,6 @@
+{
+  "parent": "item/temp_bundle_open_back",
+  "textures": {
+    "0": "item/bundle/pink_bundle_open"
+  }
+}

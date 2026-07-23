@@ -1,0 +1,25 @@
+{
+	"parent": "item/goat_horn",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-22.5, -36, -8],
+			"translation": [0, 1, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-22.5, -36, -8],
+			"translation": [0, 1, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 8, 4],
+			"translation": [-8, 3.5, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 8, 4],
+			"translation": [-8, 3.5, 0],
+			"scale": [0.7, 0.7, 0.7]
+		}
+	}
+}

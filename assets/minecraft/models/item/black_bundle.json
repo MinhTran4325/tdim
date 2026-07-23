@@ -1,0 +1,6 @@
+{
+  "parent": "item/temp_bundle",
+  "textures": {
+    "0": "item/bundle/black_bundle"
+  }
+}

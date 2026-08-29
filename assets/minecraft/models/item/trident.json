@@ -8,8 +8,9 @@
 	},
 	"elements": [
 		{
-			"from": [7.5, 0, 7.5],
-			"to": [8.5, 31, 8.5],
+			"from": [7.5, -8, 7.5],
+			"to": [8.5, 23, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, -8, 0]},
 			"faces": {
 				"north": {"uv": [1.5, 0.5, 2, 16], "texture": "#1"},
 				"east": {"uv": [1, 0.5, 1.5, 16], "texture": "#1"},
@@ -20,8 +21,9 @@
 			}
 		},
 		{
-			"from": [6.5, 25, 7.5],
-			"to": [9.5, 27, 8.5],
+			"from": [6.5, 17, 7.5],
+			"to": [9.5, 19, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, -8, 0]},
 			"faces": {
 				"north": {"uv": [4.5, 0.5, 6, 1.5], "texture": "#1"},
 				"east": {"uv": [4, 0.5, 4.5, 1.5], "texture": "#1"},
@@ -32,8 +34,9 @@
 			}
 		},
 		{
-			"from": [5.5, 26, 7.5],
-			"to": [6.5, 30, 8.5],
+			"from": [5.5, 18, 7.5],
+			"to": [6.5, 22, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, -8, 0]},
 			"faces": {
 				"north": {"uv": [3.5, 2, 4, 4], "texture": "#1"},
 				"east": {"uv": [3, 2, 3.5, 4], "texture": "#1"},
@@ -44,8 +47,9 @@
 			}
 		},
 		{
-			"from": [9.5, 26, 7.5],
-			"to": [10.5, 30, 8.5],
+			"from": [9.5, 18, 7.5],
+			"to": [10.5, 22, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, -8, 0]},
 			"faces": {
 				"north": {"uv": [3.5, 2, 4, 4], "texture": "#1"},
 				"east": {"uv": [3, 2, 3.5, 4], "texture": "#1"},
@@ -58,29 +62,20 @@
 	],
 	"gui_light": "front",
 	"display": {
-		"firstperson_righthand": {
-			"rotation": [0, -90, 45],
-			"translation": [4, -8, 12]
-		},
-		"firstperson_lefthand": {
-			"rotation": [0, -90, 45],
-			"translation": [4, -8, 12]
-		},
 		"ground": {
-			"rotation": [-90, 0, 0],
-			"translation": [0, 0, 8]
+			"rotation": [-90, 0, 0]
 		},
 		"gui": {
 			"rotation": [-30, -30, -30],
-			"translation": [-6, -13, 0]
+			"translation": [-3, -9, 0],
+			"scale": [1.2, 1.2, 1.2]
 		},
 		"head": {
-			"rotation": [-60, 0, 0],
-			"translation": [0, 0, 4]
+			"rotation": [-60, 0, 0]
 		},
 		"fixed": {
-			"rotation": [0, 0, 45],
-			"translation": [4, -4, -0.5],
+			"rotation": [0, 0, 40],
+			"translation": [0, 0, -0.5],
 			"scale": [0.75, 0.75, 0.75]
 		},
 		"on_shelf": {

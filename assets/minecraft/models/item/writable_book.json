@@ -1,0 +1,59 @@
+{
+	"parent": "item/temp_book",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "item/writable_book",
+		"particle": "item/writable_book"
+	},
+	"elements": [
+		{
+			"from": [4, 2, 7],
+			"to": [12, 14, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.9375, 6, 8]},
+			"faces": {
+				"east": {"uv": [0, 1, 1, 7], "texture": "#0"},
+				"up": {"uv": [5, 1, 1, 0], "texture": "#0"},
+				"down": {"uv": [9, 0, 5, 1], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4, 1.75, 7],
+			"to": [12.25, 14.25, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.9375, 6, 8]},
+			"faces": {
+				"north": {"uv": [1, 1, 5, 7], "texture": "#0"},
+				"south": {"uv": [6, 1, 10, 7], "texture": "#0"},
+				"west": {"uv": [5, 1, 6, 7], "texture": "#0"}
+			}
+		},
+		{
+			"from": [12.25, 14.25, 9],
+			"to": [4, 1.75, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.9375, 6, 8]},
+			"faces": {
+				"north": {"uv": [6, 7, 10, 1], "texture": "#0"},
+				"east": {"uv": [5, 1, 6, 7], "texture": "#0"},
+				"south": {"uv": [1, 7, 5, 1], "texture": "#0"}
+			}
+		},
+		{
+			"from": [9, 7, 9],
+			"to": [14, 14, 9],
+			"rotation": {"x": 5, "y": 0, "z": -30, "origin": [11.5, 7, 9]},
+			"faces": {
+				"north": {"uv": [10, 0, 12.5, 3.5], "texture": "#0"},
+				"south": {"uv": [10, 0, 12.5, 3.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [9, 0, 9],
+			"to": [14, 7, 9],
+			"rotation": {"x": -7.5, "y": 0, "z": -30, "origin": [11.5, 7, 9]},
+			"faces": {
+				"north": {"uv": [10, 4, 12.5, 7.5], "texture": "#0"},
+				"south": {"uv": [10, 4, 12.5, 7.5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {}
+}

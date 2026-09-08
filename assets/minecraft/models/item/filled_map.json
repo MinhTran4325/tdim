@@ -1,0 +1,6 @@
+{
+	"parent": "item/temp_map",
+	"textures": {
+		"0": "item/filled_map"
+	}
+}

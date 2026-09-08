@@ -6,8 +6,12 @@ armors
   wolf
 arrows
 bell
-boats		 | raft
-boats with chest | included
+boats		 | raft     |
+boats with chest | included |
+books
++ normal
+  written
+  knowledge
 blaze rod
 breeze rod
 brewing stand
@@ -43,10 +47,12 @@ lead
 lever
 mace
 magma cream
+map
 minecarts
 music disc
 name tag
 painting
+paper
 rails
 redstone
 + comparator

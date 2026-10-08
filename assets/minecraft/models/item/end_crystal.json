@@ -3,8 +3,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/end_crystal",
-		"particle": "item/end_crystal"
+		"0": "item/end_crystal"
 	},
 	"elements": [
 		{

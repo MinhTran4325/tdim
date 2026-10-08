@@ -1,0 +1,7 @@
+{
+  "parent": "item/temp_glass_pane",
+  "textures": {
+    "0": "item/light_gray_stained_glass",
+	"1": "item/light_gray_stained_glass_pane"
+  }
+}

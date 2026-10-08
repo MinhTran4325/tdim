@@ -3,6 +3,5 @@
   "textures": {
     "fire": "item/campfire_fire",
     "log": "item/campfire_log_lit"
-  },
-  "gui_light": "front"
+  }
 }

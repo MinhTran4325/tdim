@@ -3,8 +3,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/hopper",
-		"particle": "item/hopper"
+		"0": "item/hopper"
 	},
 	"elements": [
 		{
@@ -57,7 +56,7 @@
 			}
 		}
 	],
-	"gui_light": "front",
+	"gui_light": "side",
 	"display": {
 		"thirdperson_righthand": {
 			"scale": [0.3, 0.3, 0.3]

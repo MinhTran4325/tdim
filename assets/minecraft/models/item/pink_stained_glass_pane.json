@@ -1,0 +1,7 @@
+{
+  "parent": "item/temp_glass_pane",
+  "textures": {
+    "0": "item/pink_stained_glass",
+	"1": "item/pink_stained_glass_pane"
+  }
+}

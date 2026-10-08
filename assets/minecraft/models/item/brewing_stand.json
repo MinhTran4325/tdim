@@ -3,8 +3,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/brewing_stand",
-		"particle": "item/brewing_stand"
+		"0": "item/brewing_stand"
 	},
 	"elements": [
 		{
@@ -100,7 +99,7 @@
 			}
 		}
 	],
-	"gui_light": "front",
+	"gui_light": "side",
 	"display": {
 		"thirdperson_righthand": {
 			"translation": [0, 0, -0.25],

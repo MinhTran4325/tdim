@@ -4,7 +4,6 @@
 	"texture_size": [64, 64],
 	"textures": {
 		"2": "item/bamboo_boat",
-		"particle": "item/bamboo_boat",
 		"chest": "item/boat_chest"
 	},
 	"elements": [
@@ -130,7 +129,6 @@
 			}
 		}
 	],
-	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [90, -180, 0],
